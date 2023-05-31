@@ -7,6 +7,7 @@
 
 [![Codecov test
 coverage](https://codecov.io/gh/hwarden162/scentlab/branch/main/graph/badge.svg)](https://app.codecov.io/gh/hwarden162/scentlab?branch=main)
+[![coverage](https://github.com/hwarden162/scentlab/actions/workflows/coverage.yaml/badge.svg)](https://github.com/hwarden162/scentlab/actions/workflows/coverage.yaml)
 <!-- badges: end -->
 
 The goal of scentlab is to …
