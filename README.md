@@ -4,6 +4,9 @@
 # scentlab
 
 <!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/hwarden162/scentlab/branch/main/graph/badge.svg)](https://app.codecov.io/gh/hwarden162/scentlab?branch=main)
 <!-- badges: end -->
 
 The goal of scentlab is to …
