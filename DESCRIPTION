@@ -1,0 +1,16 @@
+Package: scentlab
+Title: Single Cell Entropy Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person("Hugh", "Warden", , "hugh.warden@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Analyse scRNA-seq data using information theory.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    entropy
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
